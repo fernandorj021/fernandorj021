@@ -1,16 +1,26 @@
-## Hi there 👋
+# Fernando Magalhães
 
-<!--
-**fernandorj021/fernandorj021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CEO & Founder | FM ByteShift Software**
 
-Here are some ideas to get you started:
+Helping organizations build software that grows with their business — not systems that become liabilities tomorrow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With 15+ years of experience delivering production-grade solutions across regulated industries, I focus on long-term value, maintainability, and engineering excellence.
+
+Author of two books on software engineering principles.
+
+## Connect
+- **Website:** [fmbyteshiftsoftware.com](https://fmbyteshiftsoftware.com)
+- **Email:** [contact@fmbyteshiftsoftware.com](mailto:contact@fmbyteshiftsoftware.com)
+- **LinkedIn:** [linkedin.com/in/fernando-magalhaes-fmbyteshiftsoftware](https://www.linkedin.com/in/fernando-magalhaes-fmbyteshiftsoftware/)
+
+## Organizations
+- [FM ByteShift Software — Solutions](https://github.com/fm-byteshift-software-solutions)
+- [FM ByteShift Software — Core](https://github.com/fm-byteshift-software-core)
+- [FM ByteShift Software — PoC](https://github.com/fm-byteshift-software-poc)
+- [FM ByteShift Software — Templates](https://github.com/fm-byteshift-software-templates)
+- [FM ByteShift Software — Cybersecurity](https://github.com/fm-byteshift-software-cybersecurity)
+- [FM ByteShift Software — Python Projects](https://github.com/python-projects-fernando)
+
+## Publications
+- *SOLID Principles in Python: A Hands-On Guide for All Developers*
+- *Software Engineering: Essential Principles for Beginners and Professionals*
