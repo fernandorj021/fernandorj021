@@ -16,7 +16,7 @@ Author of two books on software engineering principles.
 ## Organizations
 - [FM ByteShift Software — Solutions](https://github.com/fm-byteshift-software-solutions)
 - [FM ByteShift Software — Core](https://github.com/fm-byteshift-software-core)
-- [FM ByteShift Software — PoC](https://github.com/fm-byteshift-software-poc)
+- [FM ByteShift Software — PoCs](https://github.com/fm-byteshift-software-poc)
 - [FM ByteShift Software — Templates](https://github.com/fm-byteshift-software-templates)
 - [FM ByteShift Software — Cybersecurity](https://github.com/fm-byteshift-software-cybersecurity)
 - [FM ByteShift Software — Python Projects](https://github.com/python-projects-fernando)
