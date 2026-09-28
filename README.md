@@ -1,10 +1,35 @@
 # Fernando Magalhães
 
-**CEO & Founder | FM ByteShift Software**
+**Founder @ Market Pain Intelligence | Founder @ Cybersecurity Pain Intelligence | CEO @ FM ByteShift Software | Author of 2 Software Engineering Books**
 
-Helping organizations build software that grows with their business — not systems that become liabilities tomorrow.
+I’m a technology founder, software engineer, and author with 15+ years of experience building software systems across healthcare, insurance, telecommunications, and enterprise environments.
 
-With 15+ years of experience delivering production-grade solutions across regulated industries, I focus on long-term value, maintainability, and engineering excellence.
+Today, I lead FM ByteShift Software and build two independent intelligence initiatives: Market Pain Intelligence (MPI) and Cybersecurity Pain Intelligence (CPI).
+
+My work sits at the intersection of software engineering, AI, market intelligence, and cybersecurity, with a focus on identifying patterns, opportunities, and weaknesses that matter in the real world.
+
+
+## Market Pain Intelligence
+
+MPI is an AI-powered market intelligence platform that surfaces recurring business problems and emerging opportunities from real-world market demand.
+
+It turns fragmented demand signals into structured intelligence, helping founders, product teams, and business leaders identify recurring problems, underserved markets, and opportunities worth pursuing.
+
+
+## Cybersecurity Pain Intelligence
+
+CPI is a cybersecurity intelligence platform and research initiative focused on the practical realities of modern offensive and defensive security.
+
+CPI combines technical research, hands-on security work, and structured analysis to expose how vulnerabilities, misconfigurations, exposed infrastructure, human behavior, and other weaknesses combine into meaningful security risk.
+
+The goal is to show how individual weaknesses connect, how attack paths emerge, and where security actually breaks down.
+
+
+## Software Engineering
+
+I work across software architecture, system design, legacy modernization, AI integration, automation, and enterprise software, with experience in environments where reliability, maintainability, and security are not optional.
+
+I’m interested in understanding what is happening beneath the surface, analyzing recurring patterns, and identifying the underlying problem rather than simply implementing the obvious one.
 
 Author of two books on software engineering principles.
 
