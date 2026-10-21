@@ -2,50 +2,72 @@
 
 **Founder @ Market Pain Intelligence | Founder @ Cybersecurity Pain Intelligence | CEO @ FM ByteShift Software | Author of 2 Software Engineering Books**
 
-I’m a technology founder, software engineer, and author with 15+ years of experience building software systems across healthcare, insurance, telecommunications, and enterprise environments.
+Software engineer, technology founder, and author with 15+ years of hands-on experience building software across healthcare, insurance, telecommunications, and enterprise environments.
 
-Today, I lead FM ByteShift Software and build two independent intelligence initiatives: Market Pain Intelligence (MPI) and Cybersecurity Pain Intelligence (CPI).
+My background spans software architecture, system design, enterprise applications, legacy modernization, AI integration, and automation. I bring this engineering experience to the development of software products, market intelligence systems, and practical application security research.
 
-My work sits at the intersection of software engineering, AI, market intelligence, and cybersecurity, with a focus on identifying patterns, opportunities, and weaknesses that matter in the real world.
+I lead FM ByteShift Software and build two independent intelligence initiatives: Market Pain Intelligence (MPI) and Cybersecurity Pain Intelligence (CPI).
 
+## Market Pain Intelligence (MPI)
 
-## Market Pain Intelligence
+MPI is an AI-powered market intelligence platform that transforms fragmented market demand into structured intelligence.
 
-MPI is an AI-powered market intelligence platform that surfaces recurring business problems and emerging opportunities from real-world market demand.
+It helps founders and product teams identify recurring business problems, underserved markets, and opportunities worth pursuing through evidence-driven analysis of real-world demand signals.
 
-It turns fragmented demand signals into structured intelligence, helping founders, product teams, and business leaders identify recurring problems, underserved markets, and opportunities worth pursuing.
+- **Platform:** [marketpainintelligence.fmbyteshiftsoftware.com](http://marketpainintelligence.fmbyteshiftsoftware.com/)
 
+## Cybersecurity Pain Intelligence (CPI)
 
-## Cybersecurity Pain Intelligence
+CPI is a cybersecurity intelligence and research initiative focused on practical offensive and defensive security.
 
-CPI is a cybersecurity intelligence platform and research initiative focused on the practical realities of modern offensive and defensive security.
+My work examines vulnerabilities, misconfigurations, exposed infrastructure, and weaknesses in application design and access control to understand how they create security risks.
 
-CPI combines technical research, hands-on security work, and structured analysis to expose how vulnerabilities, misconfigurations, exposed infrastructure, human behavior, and other weaknesses combine into meaningful security risk.
+The focus is on root causes, attack paths, effective mitigations, and verification that security fixes actually work.
 
-The goal is to show how individual weaknesses connect, how attack paths emerge, and where security actually breaks down.
+### AgenticEnclave
 
+[AgenticEnclave](https://agentic-enclave.cybersecuritypainintelligence.com/) is a hands-on security lab under CPI focused on vulnerabilities in AI-enabled and agentic applications.
+
+The lab uses vulnerable implementations, controlled attack demonstrations, hardened implementations, and tests to demonstrate how security weaknesses can be reproduced, mitigated, and validated.
+
+- **Live lab:** [agentic-enclave.cybersecuritypainintelligence.com](https://agentic-enclave.cybersecuritypainintelligence.com/)
+- **Source code:** [GitHub repository](https://github.com/fm-byteshift-software-cybersecurity/agentic-enclave)
+
+Scenarios are developed incrementally, with each one addressing a specific security weakness and its mitigation.
 
 ## Software Engineering
 
-I work across software architecture, system design, legacy modernization, AI integration, automation, and enterprise software, with experience in environments where reliability, maintainability, and security are not optional.
+My engineering work covers:
 
-I’m interested in understanding what is happening beneath the surface, analyzing recurring patterns, and identifying the underlying problem rather than simply implementing the obvious one.
+- Software architecture and system design
+- Enterprise application development
+- Legacy modernization and maintainability
+- AI integration and automation
+- Application security and vulnerability remediation
+- Testing, reliability, and secure implementation practices
 
-Author of two books on software engineering principles.
+I approach security as an engineering discipline: identify the weakness, understand its root cause, implement an appropriate fix, and verify the result.
+
+**Secure software is an engineering outcome, not a security checkbox.**
+
+## Publications
+
+Author of two books on software engineering principles:
+
+- [SOLID Principles in Python: A Hands-On Guide for All Developers](https://a.co/d/4Zk6KGS)
+- [Software Engineering: Essential Principles for Beginners and Professionals](https://a.co/d/fkU4hXH)
 
 ## Connect
+
 - **Website:** [fmbyteshiftsoftware.com](https://fmbyteshiftsoftware.com)
 - **Email:** [contact@fmbyteshiftsoftware.com](mailto:contact@fmbyteshiftsoftware.com)
-- **LinkedIn:** [linkedin.com/in/fernando-magalhaes-fmbyteshiftsoftware](https://www.linkedin.com/in/fernando-magalhaes-fmbyteshiftsoftware/)
+- **LinkedIn:** [Fernando Magalhães](https://www.linkedin.com/in/fernando-magalhaes-fmbyteshiftsoftware/)
 
 ## Organizations
+
 - [FM ByteShift Software — Solutions](https://github.com/fm-byteshift-software-solutions)
 - [FM ByteShift Software — Core](https://github.com/fm-byteshift-software-core)
 - [FM ByteShift Software — PoCs](https://github.com/fm-byteshift-software-poc)
 - [FM ByteShift Software — Templates](https://github.com/fm-byteshift-software-templates)
 - [FM ByteShift Software — Cybersecurity](https://github.com/fm-byteshift-software-cybersecurity)
 - [FM ByteShift Software — Python Projects](https://github.com/python-projects-fernando)
-
-## Publications
-- *SOLID Principles in Python: A Hands-On Guide for All Developers*
-- *Software Engineering: Essential Principles for Beginners and Professionals*
